@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "BIG VOID",
+  "base_artist": "SILICA GEL",
+  "createdAt": "2025-12-24T13:53:31.025859Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Big Boy Toys",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/01_Big_Boy_Toys_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Big Boy Toys (Album Version)",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/02_Big_Boy_Toys_(Album_Version)_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Big, Big Plans",
+      "artist": "Chris Lane",
+      "has_synced": true,
+      "path": "select/03_Big,_Big_Plans_Chris_Lane.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Big Fig Wasp",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Big_Fig_Wasp_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Big Backyard (feat. Old Crow Medicine Show)",
+      "artist": "Molly Tuttle",
+      "has_synced": true,
+      "path": "select/05_Big_Backyard_(feat._Old_Crow_Medicine_Show)_Molly_Tuttle.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Big Bad John",
+      "artist": "Jimmy Dean",
+      "has_synced": true,
+      "path": "select/06_Big_Bad_John_Jimmy_Dean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Big Bad John",
+      "artist": "Jimmy Dean",
+      "has_synced": true,
+      "path": "select/07_Big_Bad_John_Jimmy_Dean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Big Bad John (Album Version)",
+      "artist": "Jimmy Dean",
+      "has_synced": true,
+      "path": "select/08_Big_Bad_John_(Album_Version)_Jimmy_Dean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Big City",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/09_Big_City_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Big City (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/10_Big_City_(Album_Version)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Big Deal",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/11_Big_Deal_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Big Dreams and Faded Jeans",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/12_Big_Dreams_and_Faded_Jeans_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Big Family",
+      "artist": "Hailey Whitters",
+      "has_synced": true,
+      "path": "select/13_Big_Family_Hailey_Whitters.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Big Green Tractor",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/14_Big_Green_Tractor_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Big Iron",
+      "artist": "Colter Wall",
+      "has_synced": true,
+      "path": "select/15_Big_Iron_Colter_Wall.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Big Iron",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/16_Big_Iron_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Big Iron (Album Version)",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/17_Big_Iron_(Album_Version)_Marty_Robbins.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BIG VOID",
+      "artist": "Silica Gel",
+      "has_synced": false,
+      "path": "select/pl_01_BIG_VOID_Silica_Gel.txt"
+    }
+  ]
+}
